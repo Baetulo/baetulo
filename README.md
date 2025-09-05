@@ -1,8 +1,8 @@
 # 👋 Hi, I’m David Rodríguez Segado
 
-📍 Palafrugell, Girona, Spain  
-📧 [davebaetulo@gmail.com](mailto:davebaetulo@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/david-rodr%C3%ADguez-segado-77308556/)  
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/David Rodríguez Segado](https://www.linkedin.com/in/david-rodr%C3%ADguez-segado-77308556/)) 
+
 
 ---
 
