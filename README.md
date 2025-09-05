@@ -31,7 +31,7 @@ I love designing **end-to-end data solutions**, from collection and transformati
 ## 🛠️ Tech & Tools  
 
 **Languages & Libraries**  
-`Python` • `R` • `SQL` • `PySpark` • `SAS` • `Shiny` • `Scala` • `SPSS`
+`Python` • ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) • `SQL` • `PySpark` • `SAS` • `Shiny` • `Scala` • `SPSS`
 
 **Data Engineering & BI**  
 `Airflow` • `Looker` • `Amplitude` • `Board` • `Informatica Cloud` • `PostgreSQL`
